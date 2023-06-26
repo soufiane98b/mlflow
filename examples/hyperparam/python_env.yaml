@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - scipy
   - scikit-learn
-  - tensorflow==2.10.0
+  - tensorflow==2.13.0rc0
   - matplotlib
   - mlflow>=1.6
   - hyperopt
